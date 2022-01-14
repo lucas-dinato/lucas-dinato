@@ -1,4 +1,3 @@
-### Olá 👋
 
 - 📚 Cursando Bacharelado em Ciência da Computação - UFRJ
 ##
