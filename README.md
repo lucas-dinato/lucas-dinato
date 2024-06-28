@@ -9,7 +9,6 @@
 <a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/lucas-dinato"><img height= "35" src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 ##
 <div align="center">
